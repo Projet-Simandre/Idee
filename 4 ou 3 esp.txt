@@ -1,0 +1,20 @@
+4 ESP 
+	3 ESP composant
+	1 ESP maitre
+Pour : 
+	Meilleur envoie de donnee sur le serveur
+
+Contre : 
+	Si ESP maitre crash c'est complique (meme si probleme deja resolu)
+	
+
+3 ESP
+	3 ESP composant
+
+Pour : 
+	Chacun traite sa donnee
+	Moins de materiel
+
+Contre : 
+	Envoie de donnee multiple au serveur (risque de probleme de comprehention)
+	
