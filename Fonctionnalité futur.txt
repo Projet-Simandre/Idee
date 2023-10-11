@@ -1,0 +1,7 @@
+Station meteo comme La chaine meteo :
+
+Aujourd'hui, notre produit ce limite à une seule ville, Versailles. Cependant nous avons comme objectif de nous developper d'abord à l'échelle nationnal en privilégiant les grandes villes. Puis pour les villes plus urbane, faire trianguler leur position en fonction des grandes villes au alentours du moins la ou cela reste de l'ordre du cohérent (pas plus de 50km entre chaque). Si cette distance est dépassee alors on y ajoutera un capteur. 
+
+Pour entreprise : 
+
+Aujourd'hui, notre produit ce limite à une entreprise à taille humaine, l'école Hexagone. Cependant nous avons comme objectif de nous developper dans des plus grandes entreprises à l'échelle nationnal comme Auchan ou Decathelon. Bien sur, notre produit n'aura plus la meme utilité. Je doute que ces entreprises ont besoins de la meteo sur chacun de leur site. La qualité de l'air deviendra une priorite sur notre produit et sera en toute logique repondre au attente de nos differents clients.
